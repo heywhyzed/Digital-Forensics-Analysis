@@ -2,7 +2,7 @@
 
 ## Environment
 - Windows 10/11 (analysis performed on Windows system)
-- Tools: Autopsy, FTK Imager, Python (if any scripts used)
+- Tools: Autopsy, FTK Imager
 - Notes: All evidence acquisition, analysis, and reporting were performed on Windows
 
 ## Objective
@@ -12,7 +12,7 @@ Analyze an Android device to recover deleted files and understand user activity.
 1. Acquired image of the Android device using FTK Imager on Windows.
 2. Loaded the image into Autopsy for analysis.
 3. Recovered deleted files and examined logs.
-4. Analyzed metadata and Registry artifacts (if applicable).
+4. Analyzed metadata and Registry artifacts.
 5. Documented findings in a PDF report.
 
 ## Key Findings
