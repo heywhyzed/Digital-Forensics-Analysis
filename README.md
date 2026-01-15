@@ -1,7 +1,7 @@
 # Android Digital Forensics Analysis
 
 ## Environment
-- Windows 10/11 (analysis performed on Windows system)
+- Windows 11 (analysis performed on Windows system)
 - Tools: Autopsy, FTK Imager
 - Notes: All evidence acquisition, analysis, and reporting were performed on Windows
 
